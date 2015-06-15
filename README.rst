@@ -1,5 +1,7 @@
 Python3 Name Parser
 -------
+Get last and first name information from email addresses, usernames, etc
+
 
 Features
 ********
